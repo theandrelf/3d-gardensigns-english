@@ -13,7 +13,7 @@ module nail(l,w,h){
 translate([0,15,0]) letter_o(5);
 translate([28,15.0,0]) letter_n(6);
 translate([47,15,0]) letter_i(5);
-translate([47,32,0]) dot(5);
+translate([47,32,0]) dot(6);
 translate([65,15.0,0]) letter_o(6);
 translate([92,15,0]) letter_n(5);
 
